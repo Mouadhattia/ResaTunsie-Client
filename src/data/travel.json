@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-6445-20211102-102125.jpg",
+    "image2": "https://fwk.resabo.com/cr.fwk/images/products/Product-6445-20211102-102125.jpg",
+    "standardImg": "assets/images/bg/tour-standard1.png",
+    "offerPercentage": "20",
+    "rateing": 10,
+    "title": " Les Magies de la Cappadoce ==> 4 J / 3 N",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 1200,
+    "offerPrice": 910,
+    "time": "03"
+  },
+  {
+    "id": 2,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8456-20211006-113341.jpg",
+    "image2": "assets/images/bg/offer-bg2.png",
+    "standardImg": "assets/images/bg/tour-standard2.png",
+    "offerPercentage": "25",
+    "rateing": 12,
+    "title": "Séjour combiné Istanbul & Trabzon ==> 7 J / 6 N ",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 850,
+    "offerPrice": 490,
+    "time": "04"
+  },
+  {
+    "id": 3,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-6444-20180228-114732.jpg",
+    "image2": "https://fwk.resabo.com/cr.fwk/images/products/Product-6444-20180228-114732.jpg",
+    "standardImg": "assets/images/bg/tour-standard3.png",
+    "offerPercentage": "30",
+    "rateing": 30,
+    "title": " Izmir Canakkale ==> 10 J / 9 N",
+    "title2": "Antelope cany Arizona US of America",
+    "regularPrice": 850,
+    "offerPrice": 490,
+    "time": "04"
+  },
+  {
+    "id": 4,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-6014-20170315-053853.jpg",
+    "standardImg": "https://fwk.resabo.com/cr.fwk/images/hotels/Hotel-1876-20221104-025642.jpg",
+    "offerPercentage": "50",
+    "rateing": 8,
+    "title": "Séjour Combiné Istanbul & Bodrum ==> 07Jours/06 Nuits ",
+    "regularPrice": 1090,
+    "offerPrice": 540
+  },
+  {
+    "id": 5,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-5670-20190518-113647.jpg",
+    "standardImg": "assets/images/bg/tour-standard5.png",
+    "offerPercentage": "10",
+    "rateing": 15,
+    "title": "  Séjour Combiné Istanbul & Antalya ==> 7 Jours / 6 Nuits",
+    "regularPrice": 1090,
+    "offerPrice": 940
+  },
+  {
+    "id": 6,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8456-20211006-113341.jpg",
+    "standardImg": "assets/images/bg/tour-standard6.png",
+    "offerPercentage": "18",
+    "rateing": 15,
+    "title": "Séjour Combiné Istanbul & Chypre du Nord ==> 8 Jours / 7 Nuits",
+    "regularPrice": 1090,
+    "offerPrice": 940
+  }
+]

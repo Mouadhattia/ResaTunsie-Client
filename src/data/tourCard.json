@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-112709.jpg",
+    "regularPrice": 5750,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 11 Au 25/03/2023",
+    "date": "10 jours",
+    "rating": "4.8",
+    "review": "150"
+  },
+  {
+    "id": 2,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-115500.jpg",
+    "regularPrice": 6700,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 17 Au 31/03/2023",
+    "date": "14 jours",
+    "rating": "5.0",
+    "review": "50"
+  },
+  {
+    "id": 3,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-112739.jpg",
+    "regularPrice": 6900,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 23 Au 06/04/2023",
+    "date": "14 jours",
+    "rating": "4.0",
+    "review": "55"
+  },
+  {
+    "id": 4,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-112753.jpg",
+    "regularPrice": 6900,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 28 Au 11/04/2023",
+    "date": "14 jours",
+    "rating": "5.0",
+    "review": "125"
+  },
+  {
+    "id": 5,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-112555.jpg",
+    "regularPrice": 8800,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 02 Au 21/04/2023",
+    "date": "19 jours",
+    "rating": "4.7",
+    "review": "555"
+  },
+  {
+    "id": 6,
+    "image": "https://fwk.resabo.com/cr.fwk/images/products/Product-8943-20230224-112610.jpg",
+    "regularPrice": 8500,
+    "title": "Omra Confort C Avec Saudia Airlines :Du 04 Au 18/04/2023",
+    "date": "14 jours",
+    "rating": "4.9",
+    "review": "5"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/wild-p1.png",
+    "type": "The Wolf",
+    "title": "Kabini WIldlife",
+    "place": "Kabini WIldlife Safari",
+    "price": "300"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/wild-p2.png",
+    "type": "leopard",
+    "title": "Bera Leopard",
+    "place": "Bera Leopard Safari",
+    "price": "300"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/wild-p3.png",
+    "type": "Lion",
+    "title": "Sariska Tiger Reserve",
+    "place": "Tadoba National Park",
+    "price": "300"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/wild-p4.png",
+    "type": "Elephant",
+    "title": "National Park",
+    "place": "National Park",
+    "price": "300"
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/wild-p5.png",
+    "type": "Monkey",
+    "title": "Monkey Reserve",
+    "place": "Tadoba National Park",
+    "price": "300"
+  }
+]

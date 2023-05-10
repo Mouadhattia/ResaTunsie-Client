@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/hotels/hotel_1.jpg",
+    "image2": "assets/images/hotels/hotel_1.jpg",
+    "standardImg": "assets/images/bg/tour-standard1.png",
+    "offerPercentage": "-20",
+    "rateing": 10,
+    "title": "Djerba Plaza Thalasso ",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 120,
+    "offerPrice": 91,
+    "time": "03"
+  },
+  {
+    "id": 2,
+    "image": "assets/images/hotels/hotel_2.jpg",
+    "image2": "assets/images/hotels/hotel_2.jpg",
+    "standardImg": "assets/images/bg/tour-standard2.png",
+    "offerPercentage": "-25",
+    "rateing": 12,
+    "title": "Dar Ismail Tabarka ",
+    "title2": "Epcot Center Drive, Orlando",
+    "regularPrice": 85,
+    "offerPrice": 49,
+    "time": "04"
+  },
+  {
+    "id": 3,
+    "image": "assets/images/hotels/hotel_3.jpg",
+    "image2": "assets/images/hotels/hotel_3.jpg",
+    "standardImg": "assets/images/bg/tour-standard3.png",
+    "offerPercentage": "-30",
+    "rateing": 30,
+    "title": "Village Africa Jade Thalasso",
+    "title2": "Antelope cany Arizona US of America",
+    "regularPrice": 85,
+    "offerPrice": 49,
+    "time": "04"
+  },
+  {
+    "id": 4,
+    "image": "assets/images/hotels/hotel_4.jpg",
+    "standardImg": "assets/images/hotels/hotel_4.jpg",
+    "offerPercentage": "-50",
+    "rateing": 8,
+    "title": "La Cigale",
+    "regularPrice": 109,
+    "offerPrice": 54
+  },
+  {
+    "id": 5,
+    "image": "assets/images/hotels/hotel_5.jpeg",
+    "standardImg": "assets/images/hotels/hotel_5.jpg",
+    "offerPercentage": "-10",
+    "rateing": 15,
+    "title": "Alhambra Thalasso",
+    "regularPrice": 109,
+    "offerPrice": 94
+  },
+  {
+    "id": 6,
+    "image": "assets/images/hotels/hotel_6.jpg",
+    "standardImg": "aassets/images/hotels/hotel_6.jpg",
+    "offerPercentage": "-18",
+    "rateing": 15,
+    "title": "Le Royal Hammamet",
+    "regularPrice": 109,
+    "offerPrice": 94
+  },
+  {
+    "id": 7,
+    "image": "assets/images/hotels/hotel_7.jpg",
+    "standardImg": "assets/images/hotels/hotel_7.jpg",
+    "offerPercentage": "-18",
+    "rateing": 15,
+    "title": "Village Africa Jade Thalasso",
+    "regularPrice": 109,
+    "offerPrice": 94
+  },
+  {
+    "id": 8,
+    "image": "assets/images/hotels/hotel_8.jpg",
+    "standardImg": "assets/images/hotels/hotel_8.jpg",
+    "offerPercentage": "-18",
+    "rateing": 15,
+    "title": "Green Golf",
+    "regularPrice": 109,
+    "offerPrice": 94
+  }
+]
