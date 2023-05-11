@@ -19,7 +19,7 @@ function TourTackage2() {
         <div className="container">
           <div className="row g-4">
             {omra.map((data) => {
-              const { id, img, price, title } = data;
+              const { id, img, price, title, promo } = data;
               return (
                 <div key={id} className="col-lg-4 col-md-6 col-sm-12">
                   <div className="deal-single1">
@@ -27,7 +27,7 @@ function TourTackage2() {
                       <span className="favourite">
                         <i className="bi bi-suit-heart-fill" />
                       </span>
-                      <span className="discount-bagde">{10}%</span>
+                      <span className="discount-bagde">{promo}%</span>
                       <img
                         src={img}
                         className="img-fluid"
@@ -62,7 +62,9 @@ function TourTackage2() {
                         </Link>
                       </h4>
                       <div className="price">
-                        <span>à partir de {price} TND</span>
+                        <span>
+                          à partir de {price - (promo / 100) * price} TND
+                        </span>
                         <del>/{price} TND</del>
                       </div>
                       <Link

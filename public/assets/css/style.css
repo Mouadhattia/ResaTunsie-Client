@@ -40,8 +40,8 @@ Template Name: Astrip - Tour Booking and Travel Agency HTML Template
   /*color Variable*/
   --primary-color2: #f2aa4cff;
   --primary-color3: #d55437;
-  --primary-color1: #ffdf22;
-  --primary-color1-light: #0047aa;
+  --primary-color1: #0047aa;
+  --primary-color1-light:  #ffdf22;
   --primary1-dark: #359d9e;
   --white: #fff;
   --text-primary: #09100d;
@@ -1766,7 +1766,7 @@ form.style-1 .form-inner .mobile-menu-form.style-2 textarea {
   font-family: var(--font-work-sans);
 }
 .topbar .topbar-left .topbar-info-list li i {
-  color: var(--primary-color1);
+  color: var(--primary-color1-light);
   margin-right: 5px;
 }
 .topbar .topbar-right-list {
@@ -4922,22 +4922,22 @@ form.style-1
 }
 @media (min-width: 1200px) and (max-width: 1399px) {
   .inner-banner-section {
-    min-height: 300px;
+    min-height: 220px;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .inner-banner-section {
-    min-height: 300x;
+    min-height: 220x;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .inner-banner-section {
-    min-height: 300px;
+    min-height: 220px;
   }
 }
 @media (max-width: 767px) {
   .inner-banner-section {
-    min-height: 300px;
+    min-height: 220px;
   }
 }
 .inner-banner-section .inner-banner-vector {
@@ -7647,7 +7647,7 @@ form.style-1 .form-inner textarea {
   height: 2px;
   border-radius: 30px;
   display: block;
-  background: linear-gradient(90deg, var(--primary-color1), transparent);
+  background: linear-gradient(90deg, var(--primary-color1-light), transparent);
 }
 .footer-section .footer-item .link-list {
   margin: 0;
@@ -7706,7 +7706,7 @@ form.style-1 .form-inner textarea {
   gap: 12px;
 }
 .footer-section .footer-item .contact-list li:hover .icon .bi {
-  background: var(--primary-color1);
+  background: var( --primary-color1-light);
   color: var(--white);
 }
 .footer-section .footer-item .contact-list li:last-child {
@@ -7718,8 +7718,8 @@ form.style-1 .form-inner textarea {
   line-height: 30px;
   text-align: center;
   border-radius: 50%;
-  border: 1px solid var(--primary-color1);
-  color: var(--primary-color1);
+  border: 1px solid var( --primary-color1-light);
+  color: var( --primary-color1-light);
   display: block;
   transition: all 0.45s ease;
   font-size: 16px;

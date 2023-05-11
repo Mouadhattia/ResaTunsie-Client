@@ -32,7 +32,7 @@ function Footer1() {
                     alt="image"
                     width={150}
                   />
-                  <p>Depuis :2017</p>
+                  <p style={{color:"#ffdf22"}}>Depuis :2017</p>
                 </div>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -99,10 +99,10 @@ function Footer1() {
             <div className="col-lg-3 col-md-4 col-sm-6 d-flex justify-content-lg-center">
               <div className="footer-item">
                 <h4>Notre Contact</h4>
-                <ul className="contact-list">
+                <ul className="contact-list" >
                   <li>
-                    <div className="icon">
-                      <i className="bi bi-telephone" />
+                    <div className="icon"  >
+                      <i className="bi bi-telephone"  />
                     </div>
                     <div className="text">
                       {/* <a href="tel:+8801761111456">+216 31 </a> */}
@@ -138,7 +138,7 @@ function Footer1() {
             <div className="col-lg-6 d-flex justify-content-lg-start justify-content-center text-lg-start text-center px-1">
               <p>
                 Agence de voyage{" "}
-                <a href="#" className="egns-lab">
+                <a href="#" className="egns-lab" style={{color:"#ffdf22"}}>
                   City Vol{" "}
                 </a>{" "}
                 {/* | Design By{" "} */}

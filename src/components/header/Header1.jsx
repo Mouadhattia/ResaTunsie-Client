@@ -107,8 +107,8 @@ function Header1() {
                 <Link href="/">
                   <a
                     className={
-                      currentRoute === "/destination" ||
-                      currentRoute === "/destination-details"
+                      currentRoute === "/" ||
+                      currentRoute === "/"
                         ? "drop-down active"
                         : "drop-down disabled"
                     }
@@ -330,8 +330,8 @@ function Header1() {
                 <Link href="/vol">
                   <a
                     className={
-                      currentRoute === "/blog-grid" ||
-                      currentRoute === "/blog-standard" ||
+                      currentRoute === "/vol" ||
+                   
                       currentRoute === "/blog-details"
                         ? "drop-down active "
                         : "drop-down disabled"
@@ -346,9 +346,9 @@ function Header1() {
                 <Link href="/bus">
                   <a
                     className={
-                      currentRoute === "/blog-grid" ||
-                      currentRoute === "/blog-standard" ||
-                      currentRoute === "/blog-details"
+                      currentRoute === "/bus" ||
+                  
+                      currentRoute === "/bus"
                         ? "drop-down active "
                         : "drop-down disabled"
                     }

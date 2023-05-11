@@ -49,7 +49,7 @@ function VisaForm() {
     adultsNumbers: 0,
     KidsNumbers: 0,
     phone: "",
-    type: "",
+    type: "Etudiant son père salarié",
   });
 
   const handleCreateVisa = (e) => {
@@ -104,9 +104,13 @@ function VisaForm() {
             </div>
           </div>
         </div>
-        <div className="row">
+     <div className="row">
+     <div className=" col-lg-6">
+          
+        </div>
+        <div className=" col-lg-6">
           <div className="col-12">
-            <div className="contact-from-wrapper">
+            <div className="contact-from-wrapper"  style={{borderColor:"#0047aa"}}>
               <form>
                 <div className="row">
                   <div className="col-lg-6">
@@ -411,6 +415,9 @@ function VisaForm() {
             </div>
           </div>
         </div>
+     </div>
+        
+       
       </div>
     </div>
   );
